@@ -6,3 +6,9 @@
 
 - 理解工作区、暂存区、版本库
 - 掌握 add / commit / status / log
+
+## 学习记录
+
+- 第一次提交完成
+- 通过 SSH over 443 成功推送到 GitHub
+- 学会 git push
